@@ -1,0 +1,1 @@
+This repo will be containing the code for a todo application using HTML, CSS(Maybe) and Vanilla Javascript.
